@@ -180,5 +180,19 @@
     "time_posted": "10 minutes",
     "status": "New Project",
     "detected_at": "2026-01-13 21:53:00"
+  },
+  {
+    "id": "rm4jzv",
+    "title": "PMO Diagnostic & Standardization/Training",
+    "categories": [
+      "Operations & Supply Chain Management",
+      "Operations & Process Improvement",
+      "Operations Project Management"
+    ],
+    "description": "We are a PE-backed Industrial Automation and Systems Integration company that provides full-stack automation capabilities\u2014from the physical layer (robotics, vision, and electrical installation) through PLC controls, SCADA, and MES\u2014serving customers across Life Sciences, Food & Beverage, CPG, Chemicals, and other discrete and process industries.\n\nWe have been growing rapidly through add-on acquisitions. In the last year we've acquired 4 new businesses that are now operating as BU under our corporate platform. \n\nIn each of these BUs there is a variance of project management maturity and capabilities, and we're now at the size and growth rate that we would like to formalize a PMO and bring the various PMs across these BU to a level of standardization and competency. \n\nWe're looking for a consultant that has had extensive experience setting up and managing PMOs in a project-based industry. Because our companies are working on complex project, there's an added layer of complexity to setting up and establishing best practices for the function. \n\nKey Responsibilities/Goals of the Engagement: Current state maturity diagnostic (by BU and at platform level) across people, process, systems.\nStandardized project language, key definitions, and core lifecycle (opportunity \u2192 URS /estimate \u2192 proposal / contract \u2192 hand\u2011off \u2192 execution \u2192 change control \u2192 EAC / financials \u2192 close\u2011out / lessons learned).\nRecommended future-state roles/org, processes, and tool stack (incl. what is BU-specific vs. shared vs. platform-level).\nPhased implementation roadmap and resource plan.",
+    "location": "Chicago, IL, USA",
+    "time_posted": "13 minutes",
+    "status": "New Project",
+    "detected_at": "2026-01-13 22:31:25"
   }
 ]
