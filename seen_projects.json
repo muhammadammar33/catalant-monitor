@@ -278,5 +278,19 @@
     "time_posted": "12 minutes",
     "status": "New Project",
     "detected_at": "2026-01-22 17:04:45"
+  },
+  {
+    "id": "rbpqke",
+    "title": "Salesforce Architect Lead Developer for a PE-Backed B2B Services Company",
+    "categories": [
+      "Digital Transformation & Technology",
+      "Technology Assessment & Implementation",
+      "General Technology Expertise"
+    ],
+    "description": "We are a ~400m PE-backed full-service amenities service provider specializing in multifamily housing. The company performs several recurring services on a long-term contract basis. For context, we've seen consistent growth in our first 15 years, where we were operating in an entrepreneurial manner and growing rapidly while operating heavily on tribal knowledge. We have been going through an end-to-end alignment initiative of reconfiguring and redefining our end to end process (for example aligning what we sell with what we put into contract with what we deliver and what we bill). \n\nWe are now working on operationalizing these changes in Salesforce. We have internal Salesforce admins, developers and an integration team, that is stretched for bandwidth so we're looking for a Salesforce architect lead developer to support our team. \n\nWe need this person to support on the following activities:\nLook at how we manage products and pricing and advise on how to implement this in SFDC\nSupport SFDC integration with embedded lifecycle management tools (Conga)\nSupport mobilization efforts to make it easily accessible for clients / users\nQualifications:\nSalesforce experience in B2B services space\nCan support on Salesforce strategy and implementation\nSalesforce integration with contract lifecycle management tools\nChange management experience",
+    "location": "",
+    "time_posted": "9 minutes",
+    "status": "New Project",
+    "detected_at": "2026-01-22 19:32:31"
   }
 ]
