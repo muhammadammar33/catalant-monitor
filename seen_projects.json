@@ -334,5 +334,19 @@
     "time_posted": "43 minutes",
     "status": "New Project",
     "detected_at": "2026-01-23 21:45:03"
+  },
+  {
+    "id": "xq481d",
+    "title": "Consultant to support with Power BI reporting and dashboard development",
+    "categories": [
+      "Data & Business Analytics",
+      "Big Data & Analytics",
+      "Data Visualization"
+    ],
+    "description": "We are a PE-backed healthcare company looking to bring in support on reporting and dashboard development, with a focus on Power BI and our data stack.\nIdeal candidate:\n\nStrong Power BI experience (building executive friendly dashboards, measures, and data models)\nStrong Snowflake experience (data modeling and working with warehouse based reporting pipelines)\nIdeally, familiarity with Athena and healthcare data is a plus\nBonus if the person can also help think through integrating additional source systems beyond Athena over time (for example payroll and other sub ledgers)",
+    "location": "",
+    "time_posted": "10 minutes",
+    "status": "New Project",
+    "detected_at": "2026-01-26 19:35:45"
   }
 ]
